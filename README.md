@@ -29,9 +29,15 @@ A simple **Group Chat App** built using **Flutter** and powered by **Firebase**.
 
 ### 📷 Screenshots 
 
-<img src="assets/image1.jpg" alt="Login Page" height="200" width="90"/>
-<hr/>
-<img src="assets/image2.jpg" alt="SignUp Page" height="200" width="90"/>
-<hr/>
-<img src="assets/image3.jpg" alt="GroupChat Page" height="200" width="90"/>
----
+<p align="center">
+  <img src="assets/image1.jpg" alt="Login Page" height="400" width="180"/>
+  <img src="assets/image2.jpg" alt="Sign Up Page" height="400" width="180"/>
+  <img src="assets/image3.jpg" alt="Group Chat Page" height="400" width="180"/>
+</p>
+
+<p align="center">
+  <strong>Login Page</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Sign Up Page</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Group Chat Page</strong>
+</p>
+
