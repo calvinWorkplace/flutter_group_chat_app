@@ -27,11 +27,11 @@ A simple **Group Chat App** built using **Flutter** and powered by **Firebase**.
 
 ---
 
-### 📷 Screenshots *(Optional)*
+### 📷 Screenshots 
 
-You may include the following screenshots in the future:
 - ![Login Page](assets/image1.jpg)
+---
 - ![SignUp Page](assets/image2.jpg)
+---
 - ![GroupChat Page](assets/image3.jpg)
-
 ---
