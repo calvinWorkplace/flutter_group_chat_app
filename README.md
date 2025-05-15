@@ -1,17 +1,37 @@
-# chat_app
+# 📱 Flutter Group Chat App
 
-A new Flutter project.
+A simple **Group Chat App** built using **Flutter** and powered by **Firebase**. This app allows users to register and log in using their email and password, then join a shared group chat where all authenticated users can send and receive messages in real-time.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **User Authentication**
+  - Login with email and password
+  - Sign up with email, password, and username
+- 💬 **Group Chat**
+  - Messages are shared in real-time across all users
+  - Any user can send and read messages after logging in
+- ☁️ **Firebase Integration**
+  - Firebase Authentication for user management
+  - Firebase Firestore for storing chat messages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter_group_chat_app" 
+### 🛠️ Tech Stack
+
+- **Flutter** - Cross-platform UI toolkit
+- **Firebase Authentication** - Handles login and registration
+- **Firebase Firestore**  - Stores chat messages
+- **Dart** - Programming language used in Flutter
+
+---
+
+### 📷 Screenshots *(Optional)*
+
+You may include the following screenshots in the future:
+- ![Login Page](assets/image1.jpg)
+- ![SignUp Page](assets/image2.jpg)
+- ![GroupChat Page](assets/image3.jpg)
+
+---
